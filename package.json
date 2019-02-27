@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.411.0",
+    "moment": "^2.24.0"
+  }
+}

@@ -1,0 +1,8 @@
+version: '3'
+services:
+  aws-reserve:
+    image: node
+    volumes:
+      - ./:/aws-reserve
+    working_dir: /aws-reserve
+    env_file: .env
